@@ -48,3 +48,8 @@ text_area = tk.Text(root, wrap="word", height=15, width=65)
 text_area.pack(padx=10, pady=10)
 
 root.mainloop()
+
+to access this code pay and subscribe:
+starting from 100rs only
+payment details 
+9353995134@ybl
